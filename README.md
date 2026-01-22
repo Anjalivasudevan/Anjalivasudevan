@@ -2,7 +2,7 @@
 - 👀 I’m interested in **Computational Biology**, **Next-Generation Sequencing (NGS)**, **Linux scripting**, and **data analysis in genomics**  
 - 🌱 I’m currently learning **bioinformatics pipelines**, **Python**, and **variant calling workflows using the Galaxy platform**  
 - 💞️ I’m looking to collaborate on **open-source bioinformatics tools**, student research projects, or anything involving **transcriptomics or bacterial genome analysis**  
-- 📫 How to reach me: (mailto: anjali7251285@gmail.com, linkedin: https://www.linkedin.com/in/anjali-v-5b1ab1239?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIiEhEGVmS8GG9eaPhEEQAg%3D%3D ) 
+- 📫 How to reach me: (mailto: anjali7251285@gmail.com, linkedin:https://www.linkedin.com/in/anjali-v-bioinformatician/ ) 
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact: I enjoy turning complex genomic workflows into intuitive, visual tools — and I’m a big fan of anime 🌸  
 
